@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h1> Hi,sonam singh Computer Science student</h1>
+<h2> Hi, I am sonam singh Computer Science student</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonam4673&label=Profile%20views&color=0e75b6&style=flat" alt="sonam4673" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonam4673" alt="sonam4673" /></a> </p>
